@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/dominos-report-management-system.iml" filepath="$PROJECT_DIR$/.idea/dominos-report-management-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dominos_report_portal.iml" filepath="$PROJECT_DIR$/.idea/dominos_report_portal.iml" />
     </modules>
   </component>
 </project>
